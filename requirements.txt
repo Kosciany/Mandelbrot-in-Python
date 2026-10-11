@@ -1,0 +1,7 @@
+jupyterlab
+matplotlib==3.10.8
+numba==0.60.0
+numba-cuda==0.4.0
+numpy==2.0.2
+pynvjitlink-cu12==0.7.0
+taichi==1.7.4
